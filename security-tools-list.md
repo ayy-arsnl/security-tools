@@ -18,3 +18,9 @@
 # KNOWLEDGE BASES/DATABASES
 - Vulnhub: https://www.vulnhub.com/
 - Malware Traffic Analysis: https://malware-traffic-analysis.net/
+- SecLists: https://github.com/danielmiessler/SecLists
+
+# THREAT DETECTION/INTELLIGENCE
+- Valhalla - YARA Feed: https://valhalla.nextron-systems.com/
+- THOR Lite - YARA Scanner: https://www.nextron-systems.com/thor-lite/
+- Loki - IOC Scanner w/ YARA: https://www.nextron-systems.com/loki/
